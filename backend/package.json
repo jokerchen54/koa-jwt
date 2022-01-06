@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "koa实现jwt认证过程",
+  "main": "index.js",
+  "scripts": {
+    "start:cookie": "nodemon ./cookie/cookie.js",
+    "start:session-org": "nodemon ./session/session-original.js",
+    "start:session-koa": "nodemon ./session/session-koa.js",
+    "start:token-jwt": "nodemon ./token/jwt.js"
+  },
+  "author": "laochen",
+  "license": "ISC",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0",
+    "koa-jwt": "^4.0.3",
+    "koa-router": "^10.1.1",
+    "koa-session": "^6.2.0",
+    "koa-static": "^5.0.0",
+    "koa2-cors": "^2.0.6"
+  }
+}

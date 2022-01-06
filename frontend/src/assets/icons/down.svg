@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>icon-down@2X</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="20211118播放进度条配色" transform="translate(-539.000000, -1019.000000)">
+            <g id="Group-7" transform="translate(490.000000, 999.000000)">
+                <g id="Group-30" transform="translate(24.000000, 17.000000)">
+                    <g id="展开" transform="translate(25.000000, 3.000000)">
+                        <g id="下拉">
+                            <rect id="矩形" fill="#000000" fill-rule="nonzero" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                            <polygon id="三角形" fill="#FFFFFF" transform="translate(8.000000, 8.000000) scale(1, -1) translate(-8.000000, -8.000000) " points="8 5 12 11 4 11"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
